@@ -1,3 +1,3 @@
-x = 'hello python'
+x = 'hello pythoń'
 print (x)
 #test komentarza
